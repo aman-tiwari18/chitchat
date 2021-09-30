@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "345062866214",
+    "project_id": "flash-chat-f5918",
+    "storage_bucket": "flash-chat-f5918.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:345062866214:android:4053b0c06cf2c1ca5f55e7",
+        "android_client_info": {
+          "package_name": "co.drogo.flash_chat"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "345062866214-n1ql2ohv0v50o8nsja3plqnisv7curlg.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCsRbcuKpzelFqA5G3AO97HC2vJJdyxD4s"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "345062866214-n1ql2ohv0v50o8nsja3plqnisv7curlg.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
